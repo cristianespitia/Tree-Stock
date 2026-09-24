@@ -47,9 +47,10 @@ public class Main {
                 // Mostrar el inventario ordenado por ID
                 case 2:
 
-                    System.out.println("\n===== INVENTARIO =====");
+System.out.println("\n===== INVENTARIO =====");
+System.out.println("Productos ordenados por ID:");
 
-                    if (arbol.raiz == null) {
+if (arbol.raiz == null) {
                         System.out.println("El inventario está vacío.");
                     } else {
                         arbol.mostrarInventario();
