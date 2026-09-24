@@ -164,19 +164,19 @@ Si el ID no existe, el sistema muestra:
 Producto no encontrado.
 ```
 
-## Evidencias de ejecución
+**## Evidencias de ejecución**
 
-### 1. Menú principal
+**### 1. Menú principal**
 
-![Menu principal](Menu%20principal.png)
+![Menu principal](capturas/Menu%20principal.png)
 
-### 2. Inserción - registro de productos
+**### 2. Inserción - registro de productos**
 
-![Inserción - registro de productos](inserción%20-%20registro%20de%20productos.png)
+![Inserción - registro de productos](capturas/inserción%20-%20registro%20de%20productos..png)
 
-### 3. Búsqueda de un producto existente
+**### 3. Búsqueda de un producto existente**
 
-![Búsqueda de un producto existente](búsqueda%20de%20un%20producto%20existente.png)
+![Búsqueda de un producto existente](capturas/búsqueda%20de%20un%20producto%20existente..png)
 
 ## Repositorio
 
